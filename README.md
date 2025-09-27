@@ -1,17 +1,40 @@
 <h2 align="left">Olá, Eu sou a Laísa</h2>
 
+### SOBRE MIM
+
+<div align="center">
+
+<table>
+  <tr>
+    <!-- Coluna 1: Lista -->
+    <td>
+
+**Resumo**
+- Sou analista de Blue Team  
+- Foco em Forense  
+- Esse GitHub foi criado para compartilhar meus conhecimentos  
+
+    </td>
+
+    <!-- Coluna 2: Tabela -->
+    <td>
+
+| IR        | FORENSICS  | PROJETOS |
+|:----------|:----------:|---------:|
+|     2     |     0      |     2    |
+
+  </td>
+  </tr>
+</table>
+
+</div>
+
+
 ###
 
-<h3 align="left">Sobre mim</h3>
-
-###
-
-<p align="left">Foco e desenvolvimento em Forense Digital</p>
-
-###
-
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=laisamichelly&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=calm&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=laisamichelly&locale=en&mode=daily&theme=calm&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
