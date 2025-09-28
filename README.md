@@ -1,5 +1,4 @@
-# 💫 About Me:
-### 👋 Olá, eu sou a Laísa!
+# 👋 Olá, eu sou a Laísa
 
 Este espaço foi criado com o intuito de expandir meus conhecimentos na área de cyber security e, ao mesmo tempo, compartilhá-los com todos que também têm interesse nesse universo. Meu objetivo é transformar este GitHub em um ponto de aprendizado e troca, onde cada repositório reflita um pouco da minha jornada e prática dentro da segurança da informação.
 
@@ -12,7 +11,7 @@ Aqui você vai encontrar conteúdos sobre cyber security, com foco em Blue Team 
 
 Embora o foco esteja na defesa, talvez você se depare com algo de Red Team por aqui também 😉 — afinal, compreender o adversário faz parte de se tornar um defensor mais completo.
 
-#### 📊 Meu progresso até agora
+### 📊 Meu progresso até agora
 Tenho colecionado projetos e estudos práticos nas seguintes áreas:
 
 | 🚀 **Projetos** | 🔍 **Forensics** | 🛡️ **Incident Response (IR)** |
